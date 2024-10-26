@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co.com/dG3YqrT/1.jpg",
+        "title": "The Art of Code",
+        "author": "Alice Johnson",
+        "author_img": "https://i.ibb.co.com/TgDBHgZ/boy1.png",
+        "posted": "2024-10-25",
+        "data": "Exploring the beauty and intricacies of software development.",
+        "reading_time": 5,
+        "hashtags": ["#coding", "#software", "#development", "#tech", "#art"]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co.com/Lr2VTwZ/2.png",
+        "title": "Mastering JavaScript",
+        "author": "Bob Williams",
+        "author_img": "https://i.ibb.co.com/3mxpw6r/boy2.jpg",
+        "posted": "2024-10-20",
+        "data": "A comprehensive guide to becoming proficient in JavaScript.",
+        "reading_time": 8,
+        "hashtags": ["#JavaScript", "#programming", "#webdev", "#coding", "#tips"]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co.com/LJ81RXQ/3.png",
+        "title": "AI in Everyday Life",
+        "author": "Carla Liu",
+        "author_img": "https://i.ibb.co.com/gmmJgg1/girl1.jpg",
+        "posted": "2024-10-18",
+        "data": "How AI is transforming daily routines and making life easier.",
+        "reading_time": 6,
+        "hashtags": ["#AI", "#technology", "#future", "#innovation", "#everyday"]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co.com/rtL691P/4.jpg",
+        "title": "The Rise of Quantum Computing",
+        "author": "David Kim",
+        "author_img": "https://i.ibb.co.com/D51Yg1y/girl2.jpg",
+        "posted": "2024-10-15",
+        "data": "An introduction to quantum computing and its potential impact.",
+        "reading_time": 7,
+        "hashtags": ["#QuantumComputing", "#science", "#technology", "#future", "#computing"]
+    },
+    {
+        "id": 5,
+        "cover": "https://example.com/images/cover5.jpg",
+        "title": "The World of Cryptocurrencies",
+        "author": "Emily Smith",
+        "author_img": "https://example.com/images/author5.jpg",
+        "posted": "2024-10-12",
+        "data": "Understanding cryptocurrencies and their role in modern finance.",
+        "reading_time": 10,
+        "hashtags": ["#cryptocurrency", "#finance", "#blockchain", "#investment", "#money"]
+    }
+]
